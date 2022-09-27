@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![Vin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vin-Xi&ecount_private=true&show_icons=true&theme=dracula)
+![Vin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vin-Xi&count_private=true&show_icons=true&theme=dracula)
 
 
 
