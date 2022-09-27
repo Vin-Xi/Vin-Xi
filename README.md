@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 
-[![Vin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vin-Xi)](https://github.com/anuraghazra/github-readme-stats)
+![Vin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vin-Xi&count_private=true)
+
 
 
 <!--
