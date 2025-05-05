@@ -1,7 +1,7 @@
 ### Welcome
 
 
-![Vin's GitHub stats](https://github-readme-stats-mu-pink-88.vercel.app/api?username=Vin-Xi&show_icons=true&theme=dracula&hide=stars)
+![Vin's GitHub stats](https://github-readme-stats-mu-pink-88.vercel.app/api?username=Vin-Xi&show_icons=true&theme=dracula&hide=stars&v=123)
 
 
 
