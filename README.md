@@ -73,7 +73,7 @@
   <a href="https://stackoverflow.com/users/19450576/vin-xi">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:winx.zii747@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
